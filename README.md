@@ -1,0 +1,2 @@
+# Hackathon-Experience-Building-a-Spam-Email-Detection-System-with-ResNet
+Spam Email Detection using ResNet is a deep learning-based project that classifies emails as spam or not spam. It utilizes ResNet for text classification, achieving 94.32% test accuracy. The project includes data preprocessing, exploratory data analysis (EDA), model training, and deployment via Streamlit for real-time predictions.
