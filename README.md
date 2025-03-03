@@ -46,7 +46,7 @@ streamlit run app.py
 - **Python**
 - **Pandas, NumPy** (Data Processing)
 - **Matplotlib, Seaborn** (EDA)
-- **TensorFlow/Keras** (ResNet Model)
+- **TensorFlow/Keras** (RNN Model)
 - **Streamlit** (Deployment)
 
 ## 🏆 Hackathon Experience
