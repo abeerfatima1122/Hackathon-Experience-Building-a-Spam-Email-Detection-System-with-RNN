@@ -6,7 +6,7 @@ This project is a **Spam Email Detection System** built using **RNN**. The model
 ## 📌 Features
 - **Data Cleaning & Preprocessing**: Removed noise, handled missing values, and normalized text.
 - **Exploratory Data Analysis (EDA)**: Visualized patterns and class distributions.
-- **Deep Learning Model (ResNet)**: Achieved **94.72% train accuracy** and **94.32% test accuracy**.
+- **Deep Learning Model (RNN)**: Achieved **94.72% train accuracy** and **94.32% test accuracy**.
 - **Deployment**: Implemented using **Streamlit** for a user-friendly interface.
 
 ## 📂 Project Structure
