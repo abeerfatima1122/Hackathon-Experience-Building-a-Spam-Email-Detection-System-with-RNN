@@ -1,7 +1,7 @@
-# Spam Email Detection using ResNet
+# Spam Email Detection using RNN
 
 ## 🚀 Project Overview
-This project is a **Spam Email Detection System** built using **ResNet**. The model classifies emails as spam or not spam based on text features. It was developed as part of a **hackathon on February 16, 2025**.
+This project is a **Spam Email Detection System** built using **RNN**. The model classifies emails as spam or not spam based on text features. It was developed as part of a **hackathon on February 16, 2025**.
 
 ## 📌 Features
 - **Data Cleaning & Preprocessing**: Removed noise, handled missing values, and normalized text.
@@ -14,7 +14,7 @@ This project is a **Spam Email Detection System** built using **ResNet**. The mo
 📁 spam-email-detection
 │-- 📂 data              # Dataset (CSV file)
 │-- 📂 notebooks         # Jupyter Notebooks for EDA & Model Training
-│-- 📂 models           # Saved ResNet model
+│-- 📂 models           # Saved RNN model
 │-- 📂 app              # Streamlit App for Deployment
 │-- README.md           # Project Documentation
 │-- requirements.txt    # Dependencies
